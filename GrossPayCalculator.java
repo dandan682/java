@@ -2,7 +2,7 @@ package chapter2;
 
 import java.util.Scanner;
 
-import jdk.nashorn.internal.runtime.regexp.joni.ScanEnvironment;
+// import jdk.nashorn.internal.runtime.regexp.joni.ScanEnvironment;
 
 public class GossPayCalculator {
     public static void main(String[] args) {
