@@ -17,5 +17,4 @@ public class GossPayCalculator {
 
     System.out.println("The emplyee's gross pay is $" + grossPay);
     }
-    
 }
